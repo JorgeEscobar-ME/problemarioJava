@@ -6,6 +6,7 @@ En el archivo Main.Java puedes escribir que tipo de problema quieres ver de entr
 * Problemas básicos: Clase Basic, objeto problemas.
 * Problemas de condicionales: Clase Condicionales, objeto problemas_condicionales
 * Problemas de For, while, do...while: Clase Loops, objeto problemas_loops
+
 Si quieres conocer cualquier problema, puedes llamar al metodo .pN() de cada clase. 
 Por ejemplo:
 El problema 3 de los básicos: escribe problemas.p3(); en el metodo main() de la clase Main
